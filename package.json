@@ -1,0 +1,20 @@
+{
+  "name": "projeto-console-ts-exercicios",
+  "version": "1.0.0",
+  "description": "Aplicação de console em TypeScript puro com 18 exercícios e menu",
+  "main": "dist/menu.js",
+  "type": "commonjs",
+  "scripts": {
+    "dev": "ts-node src/menu.ts",
+    "build": "tsc -p tsconfig.json",
+    "start": "node dist/menu.js"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@types/readline-sync": "^1.4.8",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  }
+}
