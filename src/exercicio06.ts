@@ -21,7 +21,7 @@ export function executar(): void {
   const numeros: number[] = [];
 
   for (let i = 0; i < 5; i++) {
-    const nStr = readlineSync.question(`Informe o ${i + 1}º numero: `);
+    const nStr = readlineSync.question(`Informe o ${i + 1} numero: `);
     const n = Number.parseFloat(nStr);
 
     if (Number.isNaN(n)) {
