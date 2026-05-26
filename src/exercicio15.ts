@@ -8,7 +8,7 @@ Componentes:
  25200599-2 - Matheus Henrique Onisanti de Farias
  25165638-2 - Luka Anders
  25001880-2 - Vitor de Lima Ortiz
-            - Eduardo
+ 25152866-2 - Eduardo
 Data: 26 de Maio de 2026
 Descritivo: Implemente uma calculadora de Índice de Massa Corporal (IMC) que receba peso (kg) e
 altura (m) e exiba o resultado com a classificação correspondente (ex: abaixo do peso,
