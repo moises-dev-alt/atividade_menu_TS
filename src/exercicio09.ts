@@ -8,7 +8,7 @@ Componentes:
  25200599-2 - Matheus Henrique Onisanti de Farias
  25165638-2 - Luka Anders
  25001880-2 - Vitor de Lima Ortiz
-            - Eduardo
+ 25152866-2 - Eduardo
 Data: 26 de Maio de 2026
 Descritivo: Criar uma calculadora simples de quatro operações (+ - * /)
 *******************************************************************************/
@@ -43,13 +43,13 @@ export function executar(): void {
       break;
     case '/':
       if (b === 0) {
-        console.log('Divisão por zero nao e permitida.');
+        console.log('Divisao por zero nao e permitida.');
         return;
       }
       resultado = a / b;
       break;
     default:
-      console.log('Operação invalida. Use apenas +, -, *, /.');
+      console.log('Operacao invalida. Use apenas +, -, *, /.');
       return;
   }
 
