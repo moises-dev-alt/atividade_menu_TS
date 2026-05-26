@@ -1,3 +1,17 @@
+/******************************************************************************
+Curso: Tecnologia em Análise e Desenvolvimento de Sistemas
+Disciplina: Programação Front-End
+Professor: José Carlos Flores
+Turma: ADS3A
+Componentes:
+ 25014114-2 - Gustavo Moisés Felipe
+Data: 26 de Maio de 2026
+Descritivo: Escreva um programa que valide uma senha de acordo com os seguintes critérios:
+ Pelo menos 8 caracteres
+ Pelo menos uma letra maiúscula
+ Pelo menos uma letra minúscula
+ Pelo menos um número
+*******************************************************************************/
 
 import readlineSync from 'readline-sync';
 

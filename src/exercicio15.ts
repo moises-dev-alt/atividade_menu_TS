@@ -1,3 +1,15 @@
+/******************************************************************************
+Curso: Tecnologia em Análise e Desenvolvimento de Sistemas
+Disciplina: Programação Front-End
+Professor: José Carlos Flores
+Turma: ADS3A
+Componentes:
+ 25014114-2 - Gustavo Moisés Felipe
+Data: 26 de Maio de 2026
+Descritivo: Implemente uma calculadora de Índice de Massa Corporal (IMC) que receba peso (kg) e
+altura (m) e exiba o resultado com a classificação correspondente (ex: abaixo do peso,
+normal, etc.)
+*******************************************************************************/
 
 import readlineSync from 'readline-sync';
 

@@ -1,3 +1,14 @@
+/******************************************************************************
+Curso: Tecnologia em Análise e Desenvolvimento de Sistemas
+Disciplina: Programação Front-End
+Professor: José Carlos Flores
+Turma: ADS3A
+Componentes:
+ 25014114-2 - Gustavo Moisés Felipe
+Data: 26 de Maio de 2026
+Descritivo: Escreva um programa que leia 5 números do usuário e os armazene em um array, depois
+exiba todos os números
+*******************************************************************************/
 
 import readlineSync from 'readline-sync';
 

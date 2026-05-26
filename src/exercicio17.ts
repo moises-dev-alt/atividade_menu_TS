@@ -1,3 +1,14 @@
+/******************************************************************************
+Curso: Tecnologia em Análise e Desenvolvimento de Sistemas
+Disciplina: Programação Front-End
+Professor: José Carlos Flores
+Turma: ADS3A
+Componentes:
+ 25014114-2 - Gustavo Moisés Felipe
+Data: 26 de Maio de 2026
+Descritivo:Desenvolva um jogo onde o computador sorteie um número entre 1 e 100, e o usuário
+tente adivinhá-lo. O programa deve dar dicas ("maior" ou "menor") até o acerto
+*******************************************************************************/
 
 import readlineSync from 'readline-sync';
 
